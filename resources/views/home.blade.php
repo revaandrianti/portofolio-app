@@ -55,7 +55,6 @@ header ul li a{
     padding:50px;
     gap:50px;
 }
-
 .hero img{
     width:280px;
     height:280px;
